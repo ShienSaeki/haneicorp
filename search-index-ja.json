@@ -1,0 +1,38 @@
+[
+  {
+    "id": "home",
+    "title": "HANEI株式会社 - ホーム",
+    "description": "HANEIは環境・流体制御技術の専門会社です。",
+    "url": "hanei_homepage_multilang.html"
+  },
+  {
+    "id": "voc",
+    "title": "VOC処理装置",
+    "description": "高効率なVOC処理・回収システムのご紹介。",
+    "url": "hanei_voc_systems_multilang.html"
+  },
+  {
+    "id": "support",
+    "title": "技術サポート",
+    "description": "機器の操作マニュアル、ドキュメント、FAQなどを提供。",
+    "url": "hanei_technical_support_multilang.html"
+  },
+  {
+    "id": "industries",
+    "title": "対応産業分野",
+    "description": "バッテリー、半導体、化学、電子業界に対応。",
+    "url": "hanei_industries_multilang.html"
+  },
+  {
+    "id": "valves",
+    "title": "MIZUバルブ",
+    "description": "バタフライバルブやダイヤフラムバルブの工業用バルブ製品。",
+    "url": "hanei_valves_mizu_multilang.html"
+  },
+  {
+    "id": "brands",
+    "title": "パートナーブランド",
+    "description": "MIZU、東洋紡、芝浦機械、Titownなど提携ブランド。",
+    "url": "hanei_brand_partners_full_v4_multilang.html"
+  }
+]

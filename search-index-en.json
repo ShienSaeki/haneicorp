@@ -1,0 +1,38 @@
+[
+  {
+    "id": "home",
+    "title": "HANEI Corporation - Home",
+    "description": "Welcome to HANEI, a trusted provider of environmental and fluid control technology.",
+    "url": "hanei_homepage_multilang.html"
+  },
+  {
+    "id": "voc",
+    "title": "VOC Systems",
+    "description": "Introduction to high-efficiency VOC treatment systems and recovery technologies.",
+    "url": "hanei_voc_systems_multilang.html"
+  },
+  {
+    "id": "support",
+    "title": "Technical Support",
+    "description": "Get assistance, documents, and FAQs about HANEI environmental equipment.",
+    "url": "hanei_technical_support_multilang.html"
+  },
+  {
+    "id": "industries",
+    "title": "Industries We Serve",
+    "description": "Explore how HANEI supports battery, chemical, semiconductor and electronics industries.",
+    "url": "hanei_industries_multilang.html"
+  },
+  {
+    "id": "valves",
+    "title": "Valves by MIZU",
+    "description": "High-performance industrial valves including butterfly and diaphragm valves.",
+    "url": "hanei_valves_mizu_multilang.html"
+  },
+  {
+    "id": "brands",
+    "title": "Brand Partners",
+    "description": "MIZU, Toyobo MC, Shibaura Machine and Titown Technology - trusted HANEI collaborators.",
+    "url": "hanei_brand_partners_full_v4_multilang.html"
+  }
+]

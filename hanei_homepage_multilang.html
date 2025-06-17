@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HANEI Corporation</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #003366; color: white; padding: 15px 30px; display: flex; justify-content: space-between; align-items: center; }
+        header img { height: 40px; }
+        nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+        .hero { background: url('https://via.placeholder.com/1200x400') center/cover; color: white; text-align: center; padding: 100px 20px; }
+        .section { padding: 40px 30px; }
+        .products, .links { display: flex; gap: 20px; flex-wrap: wrap; }
+        .card { border: 1px solid #ccc; padding: 20px; flex: 1; min-width: 250px; background: #f9f9f9; border-radius: 8px; }
+        footer { background: #222; color: white; text-align: center; padding: 20px; }
+        .lang-btns { margin-left: auto; }
+        .lang-btns button { margin-left: 10px; }
+    </style>
+    <script>
+        function changeLanguage(lang) {
+            alert("Language switch to: " + lang + " (demo only)");
+        }
+    </script>
+</head>
+<body>
+<div style="text-align:right; padding:10px;">
+  <button onclick="setLanguage('en')">EN</button>
+  <button onclick="setLanguage('zh')">中文</button>
+  <button onclick="setLanguage('ja')">日本語</button>
+</div>
+
+
+<header>
+    <img src="HANEI.jpg" alt="HANEI Logo">
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Solutions</a>
+        <a href="#">Support</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="lang-btns">
+        <button onclick="changeLanguage('zh')">中文</button>
+        <button onclick="changeLanguage('en')">EN</button>
+        <button onclick="changeLanguage('jp')">日本語</button>
+    </div>
+</header>
+
+<div class="hero">
+    <h1>HANEI Corporation</h1>
+    <p>Advanced Environmental & Film System Solutions</p>
+</div>
+
+<section class="section">
+    <h2>About HANEI</h2>
+    <p>HANEI Corporation is a Japanese-Taiwanese environmental engineering company specializing in VOC treatment and film production equipment integration.</p>
+</section>
+
+<section class="section products">
+    <div class="card">
+        <h3>VOC Treatment Systems</h3>
+        <p>High-efficiency solutions: RTO, carbon adsorption, rotor + TO, scrubbers.</p>
+    </div>
+    <div class="card">
+        <h3>Film Production Lines</h3>
+        <p>Coating, drying, winding, and smart automation for battery and optical industries.</p>
+    </div>
+</section>
+
+<section class="section links">
+    <div class="card">
+        <h3>Technical Support</h3>
+        <p>Installation, maintenance, diagnostics, spare parts, and remote services.</p>
+    </div>
+    <div class="card">
+        <h3>Industries Served</h3>
+        <p>Semiconductors, chemicals, optoelectronics, batteries, and more.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 HANEI Corporation. | Osaka, Japan | TEL: 06-7713-5321</p>
+</footer>
+
+<script src="i18n.js"></script>
+</body>
+</html>

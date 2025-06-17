@@ -1,0 +1,38 @@
+[
+  {
+    "id": "home",
+    "title": "阪鋭商事 - 首頁",
+    "description": "歡迎來到阪鋭商事，我們致力於環保與流體控制技術。",
+    "url": "hanei_homepage_multilang.html"
+  },
+  {
+    "id": "voc",
+    "title": "VOC 系統介紹",
+    "description": "高效率有機廢氣處理系統與回收技術介紹。",
+    "url": "hanei_voc_systems_multilang.html"
+  },
+  {
+    "id": "support",
+    "title": "技術支援",
+    "description": "提供環保設備操作說明、文件與常見問答。",
+    "url": "hanei_technical_support_multilang.html"
+  },
+  {
+    "id": "industries",
+    "title": "服務產業",
+    "description": "涵蓋鋰電池、半導體、化工、電子等高端產業。",
+    "url": "hanei_industries_multilang.html"
+  },
+  {
+    "id": "valves",
+    "title": "明柱閥門介紹",
+    "description": "蝶閥、隔膜閥、自動控制閥等工業用閥門。",
+    "url": "hanei_valves_mizu_multilang.html"
+  },
+  {
+    "id": "brands",
+    "title": "品牌專區",
+    "description": "明柱、東洋紡、芝浦機械、鈦城科技等合作品牌。",
+    "url": "hanei_brand_partners_full_v4_multilang.html"
+  }
+]
